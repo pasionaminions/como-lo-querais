@@ -9,3 +9,9 @@ const Alberto=()=>{
 const Guillem=()=>{
     console.log("Guillem.. invest");
 }
+function adriRojo() {
+    const e = Object.freeze({
+        Enum1:0,
+        Enum2:1
+    })
+}
