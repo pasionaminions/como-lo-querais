@@ -23,3 +23,7 @@ function adriRojo() {
 const sergames=()=>{
     console.log("Sergames");
 }
+
+const guillem=()=>{
+    console.log("Loren pastanaga");
+}
