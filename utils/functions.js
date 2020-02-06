@@ -17,3 +17,9 @@ function adriRojo() {
 const rodri = () => {
     console.log("Rodrigo");
 }
+ function Zaka = (action) =>{
+    consle.log(action);
+ }
+const sergames=()=>{
+    console.log("Sergames");
+}
