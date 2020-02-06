@@ -5,3 +5,7 @@ const jp=()=>{
 const Alberto=()=>{
     console.log("Alberto.. minion");
 }
+
+const Norden=()=>{
+    console.log("Alberto.. minion");
+}
