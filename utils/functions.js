@@ -12,3 +12,6 @@ function adriRojo() {
         Enum2:1
     })
 }
+const rodri = () => {
+    console.log("Rodrigo");
+}
