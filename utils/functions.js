@@ -12,3 +12,6 @@ function adriRojo() {
         Enum2:1
     })
 }
+ function Zaka = (action) =>{
+    consle.log(action);
+}
