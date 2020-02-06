@@ -20,9 +20,15 @@ function adriRojo() {
 const rodri = () => {
     console.log("Rodrigo");
 }
- function Zaka = (action) =>{
+
+const adrigr=()=>{
+    console.log("Hola, sóc l'Adri GRanero");
+}
+
+ function Zaka (action) {
     consle.log(action);
  }
+
 const sergames=()=>{
     console.log("Sergames");
 }
