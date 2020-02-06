@@ -2,6 +2,6 @@ const jp=()=>{
     console.log("JP f.. master");
 }
 
-const function Zaka = (action) =>{
+const Zaka = (action) =>{
     consle.log(action);
 }
