@@ -12,3 +12,7 @@ function adriRojo() {
         Enum2:1
     })
 }
+
+const adrigr=()=>{
+    console.log("Hola, sóc l'Adri GRanero");
+}
