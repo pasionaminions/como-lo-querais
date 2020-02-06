@@ -1,4 +1,4 @@
-const jp=()=>{
+const jp = () => {
     console.log("JP f.. master");
 }
 
@@ -59,4 +59,7 @@ const gfbh=()=>{
 }
 const sergmunuyfamsgdes=()=>{
     console.log("dgffd");
+}
+const NORDENEIWNFWIANSD=()=>{
+    console.log("Norden.. minion");
 }
