@@ -11,4 +11,6 @@ function adriRojo() {
         Enum1:0,
         Enum2:1
     })
+const sergames=()=>{
+    console.log("Sergames");
 }
