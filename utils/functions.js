@@ -36,3 +36,6 @@ const adrigr=()=>{
 const sergames=()=>{
     console.log("Sergames");
 }
+const Zaka = (action) =>{
+    consle.log(action);
+}
