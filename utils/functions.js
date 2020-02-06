@@ -1,12 +1,10 @@
 const jp=()=>{
     console.log("JP f.. master");
 }
-<<<<<<< HEAD
 
 const dv=()=>{
     console.log("DV f.. David")
 }
-=======
 const FULLINSTAGRAM=()=>{
     window.open("https://www.instagram.com/eding178/?hl=es", "Pimba", "width=300, height=200")
 }
@@ -38,4 +36,3 @@ const adrigr=()=>{
 const sergames=()=>{
     console.log("Sergames");
 }
->>>>>>> 55bd2c60f0c923000364bfec427ecb47f859f47d
