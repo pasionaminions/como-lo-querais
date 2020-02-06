@@ -38,6 +38,7 @@ const sergames=()=>{
 }
 const Zaka = (action) =>{
     consle.log(action);
+}
 const osfds=()=>{
     console.log("dg");
 }
