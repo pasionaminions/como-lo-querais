@@ -2,6 +2,10 @@ const jp = () => {
     console.log("JP f.. master");
 }
 
+const rodri = () => {
+    console.log("Rodrigo");
+}
+
 const dv=()=>{
     console.log("DV f.. David")
 }
@@ -20,9 +24,6 @@ function adriRojo() {
         Enum1:0,
         Enum2:1
     })
-}
-const rodri = () => {
-    console.log("Rodrigo");
 }
 
 const adrigr=()=>{
