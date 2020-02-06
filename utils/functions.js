@@ -9,7 +9,7 @@ const dv=()=>{
 =======
 const FULLINSTAGRAM=()=>{
     window.open("https://www.instagram.com/eding178/?hl=es", "Pimba", "width=300, height=200")
-
+}
 const Alberto=()=>{
     console.log("Alberto.. minion");
 }
@@ -23,9 +23,15 @@ function adriRojo() {
         Enum2:1
     })
 }
- function Zaka = (action) =>{
+
+const adrigr=()=>{
+    console.log("Hola, sóc l'Adri GRanero");
+}
+
+ function Zaka (action) {
     consle.log(action);
  }
+
 const sergames=()=>{
     console.log("Sergames");
 }
